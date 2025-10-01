@@ -17,3 +17,6 @@ __pycache__/
 # VSCode / JetBrains IDE
 .vscode/
 .idea/
+
+week_01/plots/*
+!week_01/plots/.gitkeep

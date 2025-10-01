@@ -4,14 +4,14 @@
 Set up a Python environment, learn the basics of NumPy, pandas, matplotlib and seaborn, and apply them to exploratory data analysis of the Titanic dataset.
 
 ## Daily Plan
-- Day 0: Preparation (project structure, environment setup, library installation)
-- Day 1: Environment check (run Jupyter, import libraries, simple plot)
-- Day 2: NumPy (arrays, slicing, broadcasting, simple statistics)
-- Day 3: pandas (load Titanic dataset, inspect data, handle missing values)
-- Day 4: Visualization (age distribution, survival by class, charts)
-- Day 5: EDA part 1 (categorical features: Sex, Pclass, Embarked)
-- Day 6: EDA part 2 (combined features, family size, advanced plots)
-- Day 7: Wrap-up (summarize insights, finalize notebook, commit results)
+- [X] Day 0: Preparation (project structure, environment setup, library installation)
+- [X] Day 1: Environment check (run Jupyter, import libraries, simple plot)
+- [X] Day 2: NumPy (arrays, slicing, broadcasting, simple statistics)
+- [X] Day 3: pandas (load Titanic dataset, inspect data, handle missing values)
+- [X] Day 4: Visualization (age distribution, survival by class, charts)
+- [X] Day 5: EDA part 1 (categorical features: Sex, Pclass, Embarked)
+- [X] Day 6: EDA part 2 (combined features, family size, advanced plots)
+- [X] Day 7: Wrap-up (summarize insights, finalize notebook, commit results)
 
 ## References
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
@@ -28,4 +28,4 @@ Set up a Python environment, learn the basics of NumPy, pandas, matplotlib and s
 - This README with summary and references
 
 ## Key Insights (fill at the end of the week)
--
+- 

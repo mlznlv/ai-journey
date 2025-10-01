@@ -34,7 +34,7 @@
 
 ### Weeks 1–4: Setup + ML Start
 **Week 1 — Titanic EDA**
-- Python Data Science Handbook
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [NumPy Quickstart](https://numpy.org/doc/stable/user/quickstart.html)
 - [pandas Getting Started](https://pandas.pydata.org/docs/getting_started/)
 - [Matplotlib Tutorials](https://matplotlib.org/stable/tutorials/index.html)
