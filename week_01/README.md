@@ -7,7 +7,7 @@ Set up a reproducible Python environment, learn the basics of NumPy, pandas, mat
 - [x] **Day 0 — Preparation**: project structure, environment setup, library installation
 - [x] **Day 1 — Environment check**: run Jupyter, import libraries, create a simple test plot
 - [x] **Day 2 — NumPy basics**: arrays, slicing, broadcasting, basic statistics
-- [x] **Day 3 — pandas basics**: load Titanic dataset, inspect data, identify missing values
+- [x] **Day 3 — Pandas basics**: load Titanic dataset, inspect data, identify missing values
 - [x] **Day 4 — Visualization**: age distribution, survival by class, bar/histogram plots
 - [x] **Day 5 — EDA Part 1**: explore categorical features (Sex, Pclass, Embarked)
 - [x] **Day 6 — EDA Part 2**: combined features, family size, advanced visualizations
